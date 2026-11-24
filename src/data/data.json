@@ -1,0 +1,1157 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer (ReactJS)",
+    "company": "Lục Bảo Technology",
+    "logoText": "LB",
+    "industry": "Công nghệ thông tin",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 15000000,
+    "salaryMax": 25000000,
+    "currency": "VND",
+    "postedAt": "2026-11-23",
+    "deadline": "2026-12-01",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Phát triển giao diện web cho các sản phẩm quản lý doanh nghiệp, phối hợp chặt chẽ với đội thiết kế và backend để giao tính năng theo từng sprint.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: React, TypeScript, Tailwind CSS",
+      "Nắm vững kiến thức nền tảng về cấu trúc dữ liệu và thuật toán",
+      "Có khả năng đọc tài liệu kỹ thuật tiếng Anh",
+      "Quen làm việc với Git và quy trình review code"
+    ],
+    "benefits": [
+      "Thưởng dự án và thưởng tháng 13",
+      "Ngân sách học tập, chứng chỉ công nghệ",
+      "Laptop và thiết bị làm việc do công ty cấp",
+      "Làm việc linh hoạt, review lương 2 lần mỗi năm"
+    ],
+    "skills": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Git"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer (Node.js)",
+    "company": "Nam Việt Software",
+    "logoText": "NV",
+    "industry": "Công nghệ thông tin",
+    "location": "Hà Nội",
+    "salaryMin": 20000000,
+    "salaryMax": 35000000,
+    "currency": "VND",
+    "postedAt": "2026-11-18",
+    "deadline": "2026-12-04",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Thiết kế và xây dựng API, tối ưu truy vấn cơ sở dữ liệu cho hệ thống thương mại điện tử có hàng trăm nghìn lượt truy cập mỗi ngày.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Node.js, PostgreSQL, Docker",
+      "Nắm vững kiến thức nền tảng về cấu trúc dữ liệu và thuật toán",
+      "Có khả năng đọc tài liệu kỹ thuật tiếng Anh",
+      "Quen làm việc với Git và quy trình review code"
+    ],
+    "benefits": [
+      "Thưởng dự án và thưởng tháng 13",
+      "Ngân sách học tập, chứng chỉ công nghệ",
+      "Laptop và thiết bị làm việc do công ty cấp",
+      "Làm việc linh hoạt, review lương 2 lần mỗi năm"
+    ],
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "REST API"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Thực tập sinh QA/Tester",
+    "company": "Sao Mai Digital",
+    "logoText": "SM",
+    "industry": "Công nghệ thông tin",
+    "location": "Đà Nẵng",
+    "salaryMin": 4000000,
+    "salaryMax": 6000000,
+    "currency": "VND",
+    "postedAt": "2026-11-13",
+    "deadline": "2026-12-07",
+    "employmentType": "Thực tập",
+    "experience": "Không yêu cầu",
+    "description": "Tham gia kiểm thử chức năng web và mobile, viết test case, báo lỗi và theo dõi quá trình sửa lỗi cùng đội phát triển.",
+    "requirements": [
+      "Sinh viên năm cuối hoặc mới tốt nghiệp, sẵn sàng học hỏi",
+      "Sử dụng tốt: Test case, Postman, SQL",
+      "Nắm vững kiến thức nền tảng về cấu trúc dữ liệu và thuật toán",
+      "Có khả năng đọc tài liệu kỹ thuật tiếng Anh",
+      "Quen làm việc với Git và quy trình review code"
+    ],
+    "benefits": [
+      "Thưởng dự án và thưởng tháng 13",
+      "Ngân sách học tập, chứng chỉ công nghệ",
+      "Laptop và thiết bị làm việc do công ty cấp",
+      "Làm việc linh hoạt, review lương 2 lần mỗi năm"
+    ],
+    "skills": [
+      "Test case",
+      "Postman",
+      "SQL",
+      "Jira"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mobile Developer (React Native)",
+    "company": "Nova Mobile Việt Nam",
+    "logoText": "NM",
+    "industry": "Công nghệ thông tin",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 18000000,
+    "salaryMax": 32000000,
+    "currency": "VND",
+    "postedAt": "2026-11-08",
+    "deadline": "2026-12-10",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Xây dựng ứng dụng di động đa nền tảng cho lĩnh vực giao hàng, chịu trách nhiệm hiệu năng và trải nghiệm trên cả iOS và Android.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: React Native, TypeScript, Firebase",
+      "Nắm vững kiến thức nền tảng về cấu trúc dữ liệu và thuật toán",
+      "Có khả năng đọc tài liệu kỹ thuật tiếng Anh",
+      "Quen làm việc với Git và quy trình review code"
+    ],
+    "benefits": [
+      "Thưởng dự án và thưởng tháng 13",
+      "Ngân sách học tập, chứng chỉ công nghệ",
+      "Laptop và thiết bị làm việc do công ty cấp",
+      "Làm việc linh hoạt, review lương 2 lần mỗi năm"
+    ],
+    "skills": [
+      "React Native",
+      "TypeScript",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "company": "Nam Việt Software",
+    "logoText": "NV",
+    "industry": "Công nghệ thông tin",
+    "location": "Đà Nẵng",
+    "salaryMin": 25000000,
+    "salaryMax": 45000000,
+    "currency": "VND",
+    "postedAt": "2026-11-03",
+    "deadline": "2026-12-13",
+    "employmentType": "Toàn thời gian",
+    "experience": "3–5 năm",
+    "description": "Vận hành hạ tầng đám mây, xây dựng pipeline CI/CD và giám sát hệ thống để đảm bảo các dịch vụ hoạt động ổn định.",
+    "requirements": [
+      "Có 3–5 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: AWS, Docker, CI/CD",
+      "Nắm vững kiến thức nền tảng về cấu trúc dữ liệu và thuật toán",
+      "Có khả năng đọc tài liệu kỹ thuật tiếng Anh",
+      "Quen làm việc với Git và quy trình review code"
+    ],
+    "benefits": [
+      "Thưởng dự án và thưởng tháng 13",
+      "Ngân sách học tập, chứng chỉ công nghệ",
+      "Laptop và thiết bị làm việc do công ty cấp",
+      "Làm việc linh hoạt, review lương 2 lần mỗi năm"
+    ],
+    "skills": [
+      "AWS",
+      "Docker",
+      "CI/CD",
+      "Linux"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Chuyên viên Digital Marketing",
+    "company": "Hoa Sen Media",
+    "logoText": "HS",
+    "industry": "Marketing",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 12000000,
+    "salaryMax": 18000000,
+    "currency": "VND",
+    "postedAt": "2026-10-29",
+    "deadline": "2026-12-16",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Lên kế hoạch và triển khai các chiến dịch quảng cáo đa kênh cho nhóm khách hàng ngành giáo dục và thời trang.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Facebook Ads, Google Ads, GA4",
+      "Tư duy phân tích số liệu và ra quyết định dựa trên dữ liệu",
+      "Kỹ năng viết và trình bày ý tưởng rõ ràng",
+      "Chủ động cập nhật xu hướng truyền thông số"
+    ],
+    "benefits": [
+      "Thưởng theo hiệu quả chiến dịch",
+      "Ngân sách tham dự hội thảo ngành",
+      "Môi trường trẻ, sáng tạo",
+      "Team building hằng quý"
+    ],
+    "skills": [
+      "Facebook Ads",
+      "Google Ads",
+      "GA4",
+      "SEO"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Content Creator",
+    "company": "Mây Xanh Agency",
+    "logoText": "MX",
+    "industry": "Marketing",
+    "location": "Hà Nội",
+    "salaryMin": 10000000,
+    "salaryMax": 15000000,
+    "currency": "VND",
+    "postedAt": "2026-10-24",
+    "deadline": "2026-12-19",
+    "employmentType": "Làm từ xa",
+    "experience": "Dưới 1 năm",
+    "description": "Sáng tạo nội dung văn bản và video ngắn cho các thương hiệu tiêu dùng, theo dõi hiệu quả bài đăng và đề xuất cải thiện.",
+    "requirements": [
+      "Có dưới 1 năm kinh nghiệm hoặc đã thực tập ở vị trí liên quan",
+      "Sử dụng tốt: Copywriting, TikTok, CapCut",
+      "Tư duy phân tích số liệu và ra quyết định dựa trên dữ liệu",
+      "Kỹ năng viết và trình bày ý tưởng rõ ràng",
+      "Chủ động cập nhật xu hướng truyền thông số"
+    ],
+    "benefits": [
+      "Thưởng theo hiệu quả chiến dịch",
+      "Ngân sách tham dự hội thảo ngành",
+      "Môi trường trẻ, sáng tạo",
+      "Team building hằng quý"
+    ],
+    "skills": [
+      "Copywriting",
+      "TikTok",
+      "CapCut",
+      "SEO"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Trưởng nhóm SEO",
+    "company": "Đại Phát Online",
+    "logoText": "ĐP",
+    "industry": "Marketing",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 25000000,
+    "salaryMax": 40000000,
+    "currency": "VND",
+    "postedAt": "2026-10-19",
+    "deadline": "2026-12-22",
+    "employmentType": "Toàn thời gian",
+    "experience": "3–5 năm",
+    "description": "Xây dựng chiến lược SEO tổng thể, dẫn dắt nhóm 4 người và báo cáo kết quả tăng trưởng traffic tự nhiên hằng tháng.",
+    "requirements": [
+      "Có 3–5 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: SEO, Ahrefs, Content Strategy",
+      "Tư duy phân tích số liệu và ra quyết định dựa trên dữ liệu",
+      "Kỹ năng viết và trình bày ý tưởng rõ ràng",
+      "Chủ động cập nhật xu hướng truyền thông số"
+    ],
+    "benefits": [
+      "Thưởng theo hiệu quả chiến dịch",
+      "Ngân sách tham dự hội thảo ngành",
+      "Môi trường trẻ, sáng tạo",
+      "Team building hằng quý"
+    ],
+    "skills": [
+      "SEO",
+      "Ahrefs",
+      "Content Strategy",
+      "Quản lý nhóm"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Performance Marketing Executive",
+    "company": "Mây Xanh Agency",
+    "logoText": "MX",
+    "industry": "Marketing",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 14000000,
+    "salaryMax": 22000000,
+    "currency": "VND",
+    "postedAt": "2026-11-19",
+    "deadline": "2026-12-25",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Quản lý ngân sách quảng cáo hiệu suất, thử nghiệm mẫu quảng cáo và tối ưu chi phí trên mỗi chuyển đổi.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Meta Ads, TikTok Ads, Looker Studio",
+      "Tư duy phân tích số liệu và ra quyết định dựa trên dữ liệu",
+      "Kỹ năng viết và trình bày ý tưởng rõ ràng",
+      "Chủ động cập nhật xu hướng truyền thông số"
+    ],
+    "benefits": [
+      "Thưởng theo hiệu quả chiến dịch",
+      "Ngân sách tham dự hội thảo ngành",
+      "Môi trường trẻ, sáng tạo",
+      "Team building hằng quý"
+    ],
+    "skills": [
+      "Meta Ads",
+      "TikTok Ads",
+      "Looker Studio",
+      "Tối ưu CPA"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "UI/UX Designer",
+    "company": "Pixel Việt Studio",
+    "logoText": "PV",
+    "industry": "Thiết kế đồ họa",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 18000000,
+    "salaryMax": 30000000,
+    "currency": "VND",
+    "postedAt": "2026-11-14",
+    "deadline": "2026-12-02",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Thiết kế trải nghiệm cho ứng dụng tài chính cá nhân, từ nghiên cứu người dùng đến prototype và bàn giao cho lập trình viên.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Figma, Design System, User Research",
+      "Có portfolio thể hiện các dự án đã thực hiện",
+      "Gu thẩm mỹ tốt và chú trọng chi tiết",
+      "Biết tiếp nhận phản hồi và chỉnh sửa nhanh"
+    ],
+    "benefits": [
+      "Thưởng dự án",
+      "Được hỗ trợ bản quyền phần mềm thiết kế",
+      "Thời gian làm việc linh hoạt",
+      "Cơ hội tham gia nhiều ngành khách hàng"
+    ],
+    "skills": [
+      "Figma",
+      "Design System",
+      "User Research",
+      "Prototyping"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Graphic Designer",
+    "company": "Vạn Hoa Branding",
+    "logoText": "VH",
+    "industry": "Thiết kế đồ họa",
+    "location": "Bình Dương",
+    "salaryMin": 10000000,
+    "salaryMax": 16000000,
+    "currency": "VND",
+    "postedAt": "2026-11-09",
+    "deadline": "2026-12-05",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Thiết kế ấn phẩm truyền thông và bộ nhận diện thương hiệu cho các khách hàng ngành thực phẩm và nội thất.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Photoshop, Illustrator, InDesign",
+      "Có portfolio thể hiện các dự án đã thực hiện",
+      "Gu thẩm mỹ tốt và chú trọng chi tiết",
+      "Biết tiếp nhận phản hồi và chỉnh sửa nhanh"
+    ],
+    "benefits": [
+      "Thưởng dự án",
+      "Được hỗ trợ bản quyền phần mềm thiết kế",
+      "Thời gian làm việc linh hoạt",
+      "Cơ hội tham gia nhiều ngành khách hàng"
+    ],
+    "skills": [
+      "Photoshop",
+      "Illustrator",
+      "InDesign",
+      "Nhận diện thương hiệu"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Motion Designer",
+    "company": "Kỳ Lân Creative",
+    "logoText": "KL",
+    "industry": "Thiết kế đồ họa",
+    "location": "Đà Nẵng",
+    "salaryMin": 12000000,
+    "salaryMax": 22000000,
+    "currency": "VND",
+    "postedAt": "2026-11-04",
+    "deadline": "2026-12-08",
+    "employmentType": "Hợp đồng",
+    "experience": "1–2 năm",
+    "description": "Dựng video quảng cáo và đồ họa chuyển động theo hợp đồng dự án, làm việc linh hoạt từ xa với đội sáng tạo.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: After Effects, Premiere Pro, Storyboard",
+      "Có portfolio thể hiện các dự án đã thực hiện",
+      "Gu thẩm mỹ tốt và chú trọng chi tiết",
+      "Biết tiếp nhận phản hồi và chỉnh sửa nhanh"
+    ],
+    "benefits": [
+      "Thưởng dự án",
+      "Được hỗ trợ bản quyền phần mềm thiết kế",
+      "Thời gian làm việc linh hoạt",
+      "Cơ hội tham gia nhiều ngành khách hàng"
+    ],
+    "skills": [
+      "After Effects",
+      "Premiere Pro",
+      "Storyboard",
+      "Hoạt hình 2D"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Nhân viên Kinh doanh B2B",
+    "company": "An Phú Trading",
+    "logoText": "AP",
+    "industry": "Kinh doanh",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 12000000,
+    "salaryMax": 30000000,
+    "currency": "VND",
+    "postedAt": "2026-10-30",
+    "deadline": "2026-12-11",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Tìm kiếm và chăm sóc khách hàng doanh nghiệp trong ngành vật tư công nghiệp, thu nhập gồm lương cứng và hoa hồng.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Đàm phán, CRM, Thuyết trình",
+      "Kỹ năng giao tiếp, thuyết phục và đàm phán",
+      "Chịu được áp lực chỉ tiêu doanh số",
+      "Sẵn sàng di chuyển gặp khách hàng khi cần"
+    ],
+    "benefits": [
+      "Hoa hồng hấp dẫn không giới hạn",
+      "Thưởng đạt chỉ tiêu theo quý",
+      "Hỗ trợ chi phí đi lại và điện thoại",
+      "Đào tạo kỹ năng bán hàng định kỳ"
+    ],
+    "skills": [
+      "Đàm phán",
+      "CRM",
+      "Thuyết trình",
+      "Tiếng Anh"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Trưởng phòng Kinh doanh khu vực",
+    "company": "Thịnh Vượng Group",
+    "logoText": "TV",
+    "industry": "Kinh doanh",
+    "location": "Đồng Nai",
+    "salaryMin": 35000000,
+    "salaryMax": 55000000,
+    "currency": "VND",
+    "postedAt": "2026-10-25",
+    "deadline": "2026-12-14",
+    "employmentType": "Toàn thời gian",
+    "experience": "Trên 5 năm",
+    "description": "Chịu trách nhiệm doanh số khu vực miền Đông Nam Bộ, xây dựng kế hoạch bán hàng và phát triển đội ngũ kinh doanh.",
+    "requirements": [
+      "Có Trên 5 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Quản lý đội nhóm, KPI, Phân tích thị trường",
+      "Kỹ năng giao tiếp, thuyết phục và đàm phán",
+      "Chịu được áp lực chỉ tiêu doanh số",
+      "Sẵn sàng di chuyển gặp khách hàng khi cần"
+    ],
+    "benefits": [
+      "Hoa hồng hấp dẫn không giới hạn",
+      "Thưởng đạt chỉ tiêu theo quý",
+      "Hỗ trợ chi phí đi lại và điện thoại",
+      "Đào tạo kỹ năng bán hàng định kỳ"
+    ],
+    "skills": [
+      "Quản lý đội nhóm",
+      "KPI",
+      "Phân tích thị trường",
+      "Đàm phán"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Business Development Executive",
+    "company": "Viễn Đông Solutions",
+    "logoText": "VĐ",
+    "industry": "Kinh doanh",
+    "location": "Hà Nội",
+    "salaryMin": 15000000,
+    "salaryMax": 25000000,
+    "currency": "VND",
+    "postedAt": "2026-10-20",
+    "deadline": "2026-12-17",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Mở rộng quan hệ đối tác và khách hàng mới cho giải pháp phần mềm quản trị, phối hợp với đội tiền bán hàng.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Lead generation, Tiếng Anh, Báo cáo",
+      "Kỹ năng giao tiếp, thuyết phục và đàm phán",
+      "Chịu được áp lực chỉ tiêu doanh số",
+      "Sẵn sàng di chuyển gặp khách hàng khi cần"
+    ],
+    "benefits": [
+      "Hoa hồng hấp dẫn không giới hạn",
+      "Thưởng đạt chỉ tiêu theo quý",
+      "Hỗ trợ chi phí đi lại và điện thoại",
+      "Đào tạo kỹ năng bán hàng định kỳ"
+    ],
+    "skills": [
+      "Lead generation",
+      "Tiếng Anh",
+      "Báo cáo",
+      "Networking"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Chuyên viên Tuyển dụng",
+    "company": "Bình Minh Holdings",
+    "logoText": "BM",
+    "industry": "Nhân sự",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 12000000,
+    "salaryMax": 18000000,
+    "currency": "VND",
+    "postedAt": "2026-11-20",
+    "deadline": "2026-12-20",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Phụ trách tuyển dụng nhóm vị trí văn phòng và vận hành, xây dựng nguồn ứng viên và trải nghiệm phỏng vấn.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Sourcing, Phỏng vấn, ATS",
+      "Hiểu biết về quy định pháp luật lao động hiện hành",
+      "Kỹ năng giao tiếp và bảo mật thông tin",
+      "Cẩn thận, có tính tổ chức cao"
+    ],
+    "benefits": [
+      "Bảo hiểm xã hội, y tế đầy đủ",
+      "Thưởng lễ, Tết theo quy định",
+      "Được đào tạo nghiệp vụ nhân sự",
+      "Môi trường làm việc ổn định"
+    ],
+    "skills": [
+      "Sourcing",
+      "Phỏng vấn",
+      "ATS",
+      "Employer Branding"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "HR Generalist",
+    "company": "Trường Thịnh Manufacturing",
+    "logoText": "TT",
+    "industry": "Nhân sự",
+    "location": "Bình Dương",
+    "salaryMin": 15000000,
+    "salaryMax": 22000000,
+    "currency": "VND",
+    "postedAt": "2026-11-15",
+    "deadline": "2026-12-23",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Quản lý hồ sơ nhân sự, chấm công, tiền lương và bảo hiểm cho nhà máy khoảng 800 lao động.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Luật Lao động, C&B, Excel",
+      "Hiểu biết về quy định pháp luật lao động hiện hành",
+      "Kỹ năng giao tiếp và bảo mật thông tin",
+      "Cẩn thận, có tính tổ chức cao"
+    ],
+    "benefits": [
+      "Bảo hiểm xã hội, y tế đầy đủ",
+      "Thưởng lễ, Tết theo quy định",
+      "Được đào tạo nghiệp vụ nhân sự",
+      "Môi trường làm việc ổn định"
+    ],
+    "skills": [
+      "Luật Lao động",
+      "C&B",
+      "Excel",
+      "Quan hệ lao động"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Thực tập sinh Nhân sự",
+    "company": "Phương Nam Retail",
+    "logoText": "PN",
+    "industry": "Nhân sự",
+    "location": "Đồng Nai",
+    "salaryMin": 3000000,
+    "salaryMax": 5000000,
+    "currency": "VND",
+    "postedAt": "2026-11-10",
+    "deadline": "2026-12-26",
+    "employmentType": "Thực tập",
+    "experience": "Không yêu cầu",
+    "description": "Hỗ trợ đội nhân sự xử lý hồ sơ, sắp xếp lịch phỏng vấn và tổ chức hoạt động gắn kết nội bộ.",
+    "requirements": [
+      "Sinh viên năm cuối hoặc mới tốt nghiệp, sẵn sàng học hỏi",
+      "Sử dụng tốt: Excel, Giao tiếp, Hồ sơ nhân sự",
+      "Hiểu biết về quy định pháp luật lao động hiện hành",
+      "Kỹ năng giao tiếp và bảo mật thông tin",
+      "Cẩn thận, có tính tổ chức cao"
+    ],
+    "benefits": [
+      "Bảo hiểm xã hội, y tế đầy đủ",
+      "Thưởng lễ, Tết theo quy định",
+      "Được đào tạo nghiệp vụ nhân sự",
+      "Môi trường làm việc ổn định"
+    ],
+    "skills": [
+      "Excel",
+      "Giao tiếp",
+      "Hồ sơ nhân sự",
+      "Tổ chức sự kiện"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Kế toán tổng hợp",
+    "company": "Đông Á Consulting",
+    "logoText": "ĐA",
+    "industry": "Kế toán",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 15000000,
+    "salaryMax": 22000000,
+    "currency": "VND",
+    "postedAt": "2026-11-05",
+    "deadline": "2026-12-03",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Tổng hợp số liệu, lập báo cáo tài chính định kỳ và làm việc với kiểm toán độc lập cho nhóm công ty tư vấn.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: MISA, Thuế GTGT, Báo cáo tài chính",
+      "Tốt nghiệp chuyên ngành Kế toán, Kiểm toán hoặc liên quan",
+      "Hiểu chuẩn mực kế toán và quy định thuế Việt Nam",
+      "Trung thực, cẩn thận và đúng hạn"
+    ],
+    "benefits": [
+      "Bảo hiểm theo quy định",
+      "Thưởng cuối năm theo kết quả kinh doanh",
+      "Hỗ trợ thi chứng chỉ kế toán",
+      "Nghỉ lễ, Tết theo luật"
+    ],
+    "skills": [
+      "MISA",
+      "Thuế GTGT",
+      "Báo cáo tài chính",
+      "Excel"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Kế toán thuế",
+    "company": "Kim Phát Packaging",
+    "logoText": "KP",
+    "industry": "Kế toán",
+    "location": "Bình Dương",
+    "salaryMin": 14000000,
+    "salaryMax": 20000000,
+    "currency": "VND",
+    "postedAt": "2026-10-31",
+    "deadline": "2026-12-06",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Kê khai và quyết toán thuế, kiểm soát hóa đơn đầu vào – đầu ra và làm việc với cơ quan thuế khi cần.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Kê khai thuế, HTKK, Hóa đơn điện tử",
+      "Tốt nghiệp chuyên ngành Kế toán, Kiểm toán hoặc liên quan",
+      "Hiểu chuẩn mực kế toán và quy định thuế Việt Nam",
+      "Trung thực, cẩn thận và đúng hạn"
+    ],
+    "benefits": [
+      "Bảo hiểm theo quy định",
+      "Thưởng cuối năm theo kết quả kinh doanh",
+      "Hỗ trợ thi chứng chỉ kế toán",
+      "Nghỉ lễ, Tết theo luật"
+    ],
+    "skills": [
+      "Kê khai thuế",
+      "HTKK",
+      "Hóa đơn điện tử",
+      "Excel"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Kế toán viên",
+    "company": "Tâm Việt Clinic",
+    "logoText": "TC",
+    "industry": "Kế toán",
+    "location": "Đà Nẵng",
+    "salaryMin": 6000000,
+    "salaryMax": 9000000,
+    "currency": "VND",
+    "postedAt": "2026-10-26",
+    "deadline": "2026-12-09",
+    "employmentType": "Bán thời gian",
+    "experience": "Dưới 1 năm",
+    "description": "Ghi sổ kế toán, đối chiếu công nợ và lập báo cáo thu chi cho phòng khám, làm việc 4 giờ mỗi ngày.",
+    "requirements": [
+      "Có dưới 1 năm kinh nghiệm hoặc đã thực tập ở vị trí liên quan",
+      "Sử dụng tốt: Sổ sách, Excel, Đối chiếu công nợ",
+      "Tốt nghiệp chuyên ngành Kế toán, Kiểm toán hoặc liên quan",
+      "Hiểu chuẩn mực kế toán và quy định thuế Việt Nam",
+      "Trung thực, cẩn thận và đúng hạn"
+    ],
+    "benefits": [
+      "Bảo hiểm theo quy định",
+      "Thưởng cuối năm theo kết quả kinh doanh",
+      "Hỗ trợ thi chứng chỉ kế toán",
+      "Nghỉ lễ, Tết theo luật"
+    ],
+    "skills": [
+      "Sổ sách",
+      "Excel",
+      "Đối chiếu công nợ",
+      "Hóa đơn"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Chuyên viên Phân tích Tài chính",
+    "company": "Đại Dương Capital",
+    "logoText": "ĐD",
+    "industry": "Tài chính",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 22000000,
+    "salaryMax": 38000000,
+    "currency": "VND",
+    "postedAt": "2026-10-21",
+    "deadline": "2026-12-12",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Xây dựng mô hình tài chính, định giá doanh nghiệp và chuẩn bị báo cáo cho hội đồng đầu tư.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Financial Modeling, Excel, Power BI",
+      "Tốt nghiệp chuyên ngành Tài chính, Ngân hàng hoặc liên quan",
+      "Tư duy logic và kỹ năng phân tích số liệu",
+      "Đọc hiểu báo cáo và tài liệu tiếng Anh"
+    ],
+    "benefits": [
+      "Thưởng hiệu suất theo năm",
+      "Bảo hiểm sức khỏe mở rộng",
+      "Lộ trình thăng tiến rõ ràng",
+      "Đào tạo chuyên sâu từ chuyên gia"
+    ],
+    "skills": [
+      "Financial Modeling",
+      "Excel",
+      "Power BI",
+      "Định giá"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Chuyên viên Quản lý Rủi ro Tín dụng",
+    "company": "Quỹ Tín dụng Việt Tín",
+    "logoText": "VT",
+    "industry": "Tài chính",
+    "location": "Hà Nội",
+    "salaryMin": 20000000,
+    "salaryMax": 32000000,
+    "currency": "VND",
+    "postedAt": "2026-11-21",
+    "deadline": "2026-12-15",
+    "employmentType": "Toàn thời gian",
+    "experience": "3–5 năm",
+    "description": "Thẩm định hồ sơ vay, theo dõi chất lượng danh mục tín dụng và đề xuất hạn mức phù hợp.",
+    "requirements": [
+      "Có 3–5 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Thẩm định tín dụng, Phân tích rủi ro, Basel",
+      "Tốt nghiệp chuyên ngành Tài chính, Ngân hàng hoặc liên quan",
+      "Tư duy logic và kỹ năng phân tích số liệu",
+      "Đọc hiểu báo cáo và tài liệu tiếng Anh"
+    ],
+    "benefits": [
+      "Thưởng hiệu suất theo năm",
+      "Bảo hiểm sức khỏe mở rộng",
+      "Lộ trình thăng tiến rõ ràng",
+      "Đào tạo chuyên sâu từ chuyên gia"
+    ],
+    "skills": [
+      "Thẩm định tín dụng",
+      "Phân tích rủi ro",
+      "Basel",
+      "SQL"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Thực tập sinh Tư vấn Đầu tư",
+    "company": "An Tâm Securities",
+    "logoText": "AT",
+    "industry": "Tài chính",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 5000000,
+    "salaryMax": 8000000,
+    "currency": "VND",
+    "postedAt": "2026-11-16",
+    "deadline": "2026-12-18",
+    "employmentType": "Thực tập",
+    "experience": "Không yêu cầu",
+    "description": "Hỗ trợ nhóm tư vấn tổng hợp dữ liệu thị trường, soạn bản tin và chăm sóc tài khoản khách hàng cá nhân.",
+    "requirements": [
+      "Sinh viên năm cuối hoặc mới tốt nghiệp, sẵn sàng học hỏi",
+      "Sử dụng tốt: Chứng khoán, Excel, Phân tích kỹ thuật",
+      "Tốt nghiệp chuyên ngành Tài chính, Ngân hàng hoặc liên quan",
+      "Tư duy logic và kỹ năng phân tích số liệu",
+      "Đọc hiểu báo cáo và tài liệu tiếng Anh"
+    ],
+    "benefits": [
+      "Thưởng hiệu suất theo năm",
+      "Bảo hiểm sức khỏe mở rộng",
+      "Lộ trình thăng tiến rõ ràng",
+      "Đào tạo chuyên sâu từ chuyên gia"
+    ],
+    "skills": [
+      "Chứng khoán",
+      "Excel",
+      "Phân tích kỹ thuật",
+      "Tiếng Anh"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Giáo viên Tiếng Anh IELTS",
+    "company": "Học viện Ánh Dương",
+    "logoText": "ÁD",
+    "industry": "Giáo dục",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 20000000,
+    "salaryMax": 35000000,
+    "currency": "VND",
+    "postedAt": "2026-11-11",
+    "deadline": "2026-12-21",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Giảng dạy các lớp IELTS từ 5.0 đến 7.0, xây dựng lộ trình học và theo dõi tiến bộ của từng học viên.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: IELTS 7.5+, Giảng dạy, Thiết kế giáo án",
+      "Yêu nghề, kiên nhẫn và có trách nhiệm với học viên",
+      "Kỹ năng truyền đạt dễ hiểu, sinh động",
+      "Có chứng chỉ hoặc bằng cấp phù hợp với vị trí"
+    ],
+    "benefits": [
+      "Thưởng theo kết quả học viên",
+      "Hỗ trợ bồi dưỡng chuyên môn",
+      "Lịch dạy được sắp xếp hợp lý",
+      "Môi trường giáo dục thân thiện"
+    ],
+    "skills": [
+      "IELTS 7.5+",
+      "Giảng dạy",
+      "Thiết kế giáo án",
+      "Đánh giá học viên"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Giáo viên Tin học",
+    "company": "Trường Tiểu học Tương Lai",
+    "logoText": "TL",
+    "industry": "Giáo dục",
+    "location": "Hà Nội",
+    "salaryMin": 10000000,
+    "salaryMax": 14000000,
+    "currency": "VND",
+    "postedAt": "2026-11-06",
+    "deadline": "2026-12-24",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Dạy tin học và lập trình cơ bản cho học sinh tiểu học bằng các hoạt động trực quan, sinh động.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Scratch, Tin học văn phòng, Quản lý lớp",
+      "Yêu nghề, kiên nhẫn và có trách nhiệm với học viên",
+      "Kỹ năng truyền đạt dễ hiểu, sinh động",
+      "Có chứng chỉ hoặc bằng cấp phù hợp với vị trí"
+    ],
+    "benefits": [
+      "Thưởng theo kết quả học viên",
+      "Hỗ trợ bồi dưỡng chuyên môn",
+      "Lịch dạy được sắp xếp hợp lý",
+      "Môi trường giáo dục thân thiện"
+    ],
+    "skills": [
+      "Scratch",
+      "Tin học văn phòng",
+      "Quản lý lớp",
+      "Soạn giáo án"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Trợ giảng Toán",
+    "company": "Trung tâm Sáng Tạo",
+    "logoText": "ST",
+    "industry": "Giáo dục",
+    "location": "Cần Thơ",
+    "salaryMin": 4000000,
+    "salaryMax": 7000000,
+    "currency": "VND",
+    "postedAt": "2026-11-01",
+    "deadline": "2026-12-01",
+    "employmentType": "Bán thời gian",
+    "experience": "Dưới 1 năm",
+    "description": "Hỗ trợ giáo viên chính kèm học sinh THCS, chấm bài và giải đáp thắc mắc vào các buổi tối trong tuần.",
+    "requirements": [
+      "Có dưới 1 năm kinh nghiệm hoặc đã thực tập ở vị trí liên quan",
+      "Sử dụng tốt: Toán THCS, Kỹ năng sư phạm, Giao tiếp",
+      "Yêu nghề, kiên nhẫn và có trách nhiệm với học viên",
+      "Kỹ năng truyền đạt dễ hiểu, sinh động",
+      "Có chứng chỉ hoặc bằng cấp phù hợp với vị trí"
+    ],
+    "benefits": [
+      "Thưởng theo kết quả học viên",
+      "Hỗ trợ bồi dưỡng chuyên môn",
+      "Lịch dạy được sắp xếp hợp lý",
+      "Môi trường giáo dục thân thiện"
+    ],
+    "skills": [
+      "Toán THCS",
+      "Kỹ năng sư phạm",
+      "Giao tiếp",
+      "Kiên nhẫn"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Nhân viên Điều phối Vận tải",
+    "company": "Long Giang Logistics",
+    "logoText": "LG",
+    "industry": "Logistics",
+    "location": "Hải Phòng",
+    "salaryMin": 11000000,
+    "salaryMax": 16000000,
+    "currency": "VND",
+    "postedAt": "2026-10-27",
+    "deadline": "2026-12-04",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Lập kế hoạch và điều phối xe vận chuyển container, theo dõi lộ trình và xử lý phát sinh với tài xế, khách hàng.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: TMS, Excel, Điều phối",
+      "Hiểu quy trình vận chuyển, kho bãi hoặc chứng từ",
+      "Khả năng xử lý tình huống và làm việc theo ca khi cần",
+      "Thành thạo Excel và phần mềm quản lý chuyên ngành"
+    ],
+    "benefits": [
+      "Phụ cấp ca và chuyên cần",
+      "Bảo hiểm đầy đủ",
+      "Thưởng hiệu suất theo tháng",
+      "Cơ hội làm việc với đối tác quốc tế"
+    ],
+    "skills": [
+      "TMS",
+      "Excel",
+      "Điều phối",
+      "Hợp đồng vận tải"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Chuyên viên Xuất nhập khẩu",
+    "company": "Hải Âu Shipping",
+    "logoText": "HÂ",
+    "industry": "Logistics",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 14000000,
+    "salaryMax": 22000000,
+    "currency": "VND",
+    "postedAt": "2026-10-22",
+    "deadline": "2026-12-07",
+    "employmentType": "Toàn thời gian",
+    "experience": "2–3 năm",
+    "description": "Chuẩn bị chứng từ, khai báo hải quan và phối hợp hãng tàu cho các lô hàng nội địa và quốc tế.",
+    "requirements": [
+      "Có 2–3 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Chứng từ XNK, Incoterms, Hải quan điện tử",
+      "Hiểu quy trình vận chuyển, kho bãi hoặc chứng từ",
+      "Khả năng xử lý tình huống và làm việc theo ca khi cần",
+      "Thành thạo Excel và phần mềm quản lý chuyên ngành"
+    ],
+    "benefits": [
+      "Phụ cấp ca và chuyên cần",
+      "Bảo hiểm đầy đủ",
+      "Thưởng hiệu suất theo tháng",
+      "Cơ hội làm việc với đối tác quốc tế"
+    ],
+    "skills": [
+      "Chứng từ XNK",
+      "Incoterms",
+      "Hải quan điện tử",
+      "Tiếng Anh"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Quản lý Kho vận",
+    "company": "Đồng Tâm Fulfillment",
+    "logoText": "ĐT",
+    "industry": "Logistics",
+    "location": "Bình Dương",
+    "salaryMin": 18000000,
+    "salaryMax": 28000000,
+    "currency": "VND",
+    "postedAt": "2026-11-22",
+    "deadline": "2026-12-10",
+    "employmentType": "Toàn thời gian",
+    "experience": "3–5 năm",
+    "description": "Điều hành kho hàng thương mại điện tử, kiểm soát tồn kho và dẫn dắt đội 30 nhân viên đóng gói, xuất nhập.",
+    "requirements": [
+      "Có 3–5 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: WMS, Quản lý kho, 5S",
+      "Hiểu quy trình vận chuyển, kho bãi hoặc chứng từ",
+      "Khả năng xử lý tình huống và làm việc theo ca khi cần",
+      "Thành thạo Excel và phần mềm quản lý chuyên ngành"
+    ],
+    "benefits": [
+      "Phụ cấp ca và chuyên cần",
+      "Bảo hiểm đầy đủ",
+      "Thưởng hiệu suất theo tháng",
+      "Cơ hội làm việc với đối tác quốc tế"
+    ],
+    "skills": [
+      "WMS",
+      "Quản lý kho",
+      "5S",
+      "Quản lý nhân sự"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Nhân viên Chăm sóc khách hàng",
+    "company": "Sao Việt Telecom",
+    "logoText": "SV",
+    "industry": "Chăm sóc khách hàng",
+    "location": "Đà Nẵng",
+    "salaryMin": 8000000,
+    "salaryMax": 12000000,
+    "currency": "VND",
+    "postedAt": "2026-11-17",
+    "deadline": "2026-12-13",
+    "employmentType": "Toàn thời gian",
+    "experience": "Dưới 1 năm",
+    "description": "Tiếp nhận và giải quyết yêu cầu của khách hàng qua điện thoại, chat và email theo quy trình chuẩn.",
+    "requirements": [
+      "Có dưới 1 năm kinh nghiệm hoặc đã thực tập ở vị trí liên quan",
+      "Sử dụng tốt: Giao tiếp, Xử lý khiếu nại, CRM",
+      "Giọng nói rõ ràng, thái độ lịch sự và đồng cảm",
+      "Khả năng xử lý khiếu nại bình tĩnh",
+      "Chịu được áp lực và làm việc theo ca"
+    ],
+    "benefits": [
+      "Thưởng chất lượng dịch vụ",
+      "Phụ cấp ăn trưa",
+      "Được đào tạo kỹ năng giao tiếp",
+      "Cơ hội lên giám sát, quản lý"
+    ],
+    "skills": [
+      "Giao tiếp",
+      "Xử lý khiếu nại",
+      "CRM",
+      "Tin học văn phòng"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Customer Success Specialist",
+    "company": "Cloud Nam Á",
+    "logoText": "NA",
+    "industry": "Chăm sóc khách hàng",
+    "location": "TP. Hồ Chí Minh",
+    "salaryMin": 16000000,
+    "salaryMax": 26000000,
+    "currency": "VND",
+    "postedAt": "2026-11-12",
+    "deadline": "2026-12-16",
+    "employmentType": "Toàn thời gian",
+    "experience": "1–2 năm",
+    "description": "Đồng hành cùng khách hàng doanh nghiệp từ giai đoạn triển khai, đào tạo sử dụng đến gia hạn hợp đồng.",
+    "requirements": [
+      "Có 1–2 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Customer Success, Tiếng Anh, Zendesk",
+      "Giọng nói rõ ràng, thái độ lịch sự và đồng cảm",
+      "Khả năng xử lý khiếu nại bình tĩnh",
+      "Chịu được áp lực và làm việc theo ca"
+    ],
+    "benefits": [
+      "Thưởng chất lượng dịch vụ",
+      "Phụ cấp ăn trưa",
+      "Được đào tạo kỹ năng giao tiếp",
+      "Cơ hội lên giám sát, quản lý"
+    ],
+    "skills": [
+      "Customer Success",
+      "Tiếng Anh",
+      "Zendesk",
+      "Onboarding"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Giám sát Contact Center",
+    "company": "Thành Đạt Insurance",
+    "logoText": "TĐ",
+    "industry": "Chăm sóc khách hàng",
+    "location": "Hà Nội",
+    "salaryMin": 18000000,
+    "salaryMax": 27000000,
+    "currency": "VND",
+    "postedAt": "2026-11-07",
+    "deadline": "2026-12-19",
+    "employmentType": "Toàn thời gian",
+    "experience": "3–5 năm",
+    "description": "Giám sát chất lượng cuộc gọi, huấn luyện nhân viên và cải tiến quy trình chăm sóc khách hàng bảo hiểm.",
+    "requirements": [
+      "Có 3–5 năm kinh nghiệm ở vị trí tương đương hoặc liên quan",
+      "Sử dụng tốt: Quản lý đội ngũ, KPI, QA cuộc gọi",
+      "Giọng nói rõ ràng, thái độ lịch sự và đồng cảm",
+      "Khả năng xử lý khiếu nại bình tĩnh",
+      "Chịu được áp lực và làm việc theo ca"
+    ],
+    "benefits": [
+      "Thưởng chất lượng dịch vụ",
+      "Phụ cấp ăn trưa",
+      "Được đào tạo kỹ năng giao tiếp",
+      "Cơ hội lên giám sát, quản lý"
+    ],
+    "skills": [
+      "Quản lý đội ngũ",
+      "KPI",
+      "QA cuộc gọi",
+      "Báo cáo"
+    ]
+  }
+]
