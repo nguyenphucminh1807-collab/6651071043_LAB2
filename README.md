@@ -3,9 +3,9 @@
 Bài thực hành **Thiết kế Web – Buổi 2** (GV: Nguyễn Thiện Dương).
 
 - **Sinh viên:** Nguyễn Phúc Minh – **MSSV:** 6651071043
-- **Repository đề xuất:** `6651071043-lab2-tuyen-dung-tim-viec`
-- **Link GitHub:** _(bổ sung sau khi push)_
-- **Link website đã deploy:** _(bổ sung sau khi deploy)_
+- **Repository :** `6651071043_LAB2`
+- **Link GitHub:** _https://github.com/nguyenphucminh1807-collab/6651071043_LAB2.git_
+- **Link website đã deploy:** _https://6651071043-lab-2.vercel.app/_
 
 ## Kết quả cá nhân hóa theo MSSV
 
@@ -81,4 +81,4 @@ npm run preview      # chạy thử bản build
 
 ## Lighthouse
 
-Mở bản đã deploy trong Chrome → DevTools → Lighthouse → chế độ **Mobile** → chụp ảnh kết quả để nộp. Không ghi điểm vào đây khi chưa tự chạy trên bản deploy.
+Mở bản đã deploy trong Chrome → DevTools → Lighthouse → chế độ **Mobile** → Performance = 99 · Accessibility = 100 · Best Practices = 100
